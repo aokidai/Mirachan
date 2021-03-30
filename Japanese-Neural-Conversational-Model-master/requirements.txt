@@ -1,3 +1,0 @@
-mecab-python==0.996
-nltk==3.3
-tensorflow==0.12
